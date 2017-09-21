@@ -38,3 +38,4 @@ Temp
 [Bb]uild
 sysinfo.txt
 *.stackdump
+*.meta
