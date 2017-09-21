@@ -1,24 +1,17 @@
+# ===========================
+# Default Collab Ignore Rules
+# ===========================
 
-# Ignore misc OS files...
+# OS Generated
+# ============
 .DS_Store
-.DS_Store?
 ._*
 .Spotlight-V100
 .Trashes
+Icon?
 ehthumbs.db
-Thumbs.db
 [Tt]humbs.db
 [Dd]esktop.ini
-
-.idea/
-
-# Ignore Unity artifacts
-Library
-Temp
-*.csproj
-*.pidb
-*.sln
-*.userprefs
 
 # Visual Studio / MonoDevelop generated
 # =====================================
